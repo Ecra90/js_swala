@@ -9,3 +9,4 @@ console.log(person)
 // array of fruits and console.log
 let fruits =["oranges","mangoes","apples"]
 console.log(fruits)
+console.log(fruits)
