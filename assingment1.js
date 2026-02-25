@@ -7,4 +7,4 @@ console.log(password);
 console.log(email);
 // creating an array of 5 counties and log the second county in the console using it's index
 let counties = ['kenya','nigeria','lagos','algeria','kiambu'];
-console.log(counties[2]);
+console.log(counties[1]);
