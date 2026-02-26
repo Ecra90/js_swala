@@ -1,6 +1,6 @@
 let distance =300
 if 
-    (distance<=0)
+    (distance<0)
     {console.log("invalid")}
 else if
     (distance <=100)
