@@ -1,4 +1,4 @@
-let distance =300
+let distance =800;
 if 
     (distance<0)
     {console.log("invalid")}
@@ -10,6 +10,6 @@ else if
     {console.log("pay 10 USD")}
 else if
     (distance<=1000)    
-    {console("pay 20 USD")}
+    {console.log("pay 20 USD")}
 else
     {console.log("pay 40 USD")}
