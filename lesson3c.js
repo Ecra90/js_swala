@@ -12,3 +12,12 @@ function add() {
     console.log(`the answer is;${answer}`)
 }
 add()
+function mycountry(){
+    console.log(`mycountry iscalled kenya`)
+    console.log(`mycountry wow`)
+    console.log(`mycountry good`)
+    console.log(`mycountry corrupt`)
+    console.log(`mycountry is weird`)
+}
+mycountry()
+
